@@ -1,0 +1,6 @@
+name: petstore
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.0=h2628c8c_0_cpython
+  - requests=2.31.0=pyhd8ed1ab_0
